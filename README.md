@@ -31,5 +31,3 @@ You can utilize this dataset for various analyses such as:
 - Product performance comparison across different categories and countries.
 - Identification of top-selling products and regions.
 
-## Acknowledgements
-This dataset is provided for educational purposes. Original source unknown.
